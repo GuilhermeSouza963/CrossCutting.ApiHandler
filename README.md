@@ -72,3 +72,9 @@ GET:
                 new Parameters("exemplo","1"),
 				new Parameters("exemplo2","2")
             });
+
+Para instalar via Packager Manager Console:
+
+Install-Package CrossCutting.ApiHandler -Version 1.0.0
+
+https://www.nuget.org/packages/CrossCutting.ApiHandler/
